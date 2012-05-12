@@ -1,3 +1,6 @@
+using System;
+using System.Numerics;
+
 /// <summary>
 /// A crude implimentation of the essentials needed from Java's BigDecimal
 /// </summary>
